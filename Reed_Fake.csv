@@ -1,0 +1,801 @@
+Brand_Name,Course_ID,link,Course_Title,Price,Students,Ratings
+IMOH,AH2768,https://imoh.co.uk/course/AH2768,Cyber Security Fundamentals,193.52,910,3.8
+Stonebridge College,KA2501,https://stonebridgecollege.co.uk/course/KA2501,UI UX Design Professional,392.05,3142,3.7
+Centre of Excellence,FP8086,https://centreofexcellence.co.uk/course/FP8086,Financial Accounting Course,86.44,4476,4.2
+Apex,EY3008,https://apex.co.uk/course/EY3008,Full Stack Development,173.52,2969,4.6
+Apex,US5935,https://apex.co.uk/course/US5935,Full Stack Development,20.09,819,
+Alpha,PS0220,https://alpha.co.uk/course/PS0220,Artificial Intelligence Basics,469.89,2483,3.8
+IMOH,JL8136,,Cyber Security Fundamentals,99.87,4605,4.4
+Stonebridge College,QN2429,https://stonebridgecollege.co.uk/course/QN2429,UI UX Design Professional,13.46,2954,3.9
+FutureLearn,RV7203,https://futurelearn.co.uk/course/RV7203,Healthcare Administration,,2097,3.9
+IMOH,FY8363,https://imoh.co.uk/course/FY8363,Cloud Computing Essentials,189.52,239,3.6
+NextGen,GG5258,https://nextgen.co.uk/course/GG5258,Machine Learning Foundations,313.01,1949,4.3
+Alpha,FZ5001,,Project Management Professional,300.28,3252,4.8
+Centre of Excellence,PK5425,https://centreofexcellence.co.uk/course/PK5425,Level 3 Data Analytics,343.35,2938,3.6
+IMOH,RN2614,https://imoh.co.uk/course/RN2614,Cloud Computing Essentials,474.95,2413,
+StudyHub,YW2519,https://studyhub.co.uk/course/YW2519,Web Development Diploma,198.85,2662,3.8
+Global Edulink,PD7575,,Level 3 Data Analytics,128.1,1528,4.4
+Stonebridge College,IA9883,https://stonebridgecollege.co.uk/course/IA9883,Digital Marketing Diploma,418.27,84,4.9
+FutureLearn,WY0407,https://futurelearn.co.uk/course/WY0407,Python Programming Bootcamp,136.8,3993,4.6
+NextGen,RY1569,https://nextgen.co.uk/course/RY1569,UI UX Design Professional,218.33,2663,4.3
+FutureLearn,SK6384,https://futurelearn.co.uk/course/SK6384,Artificial Intelligence Basics,100.58,4848,4.8
+FutureLearn,BA5507,https://futurelearn.co.uk/course/BA5507,Digital Marketing Diploma,230.38,4347,4.8
+FutureLearn,BA3524,https://futurelearn.co.uk/course/BA3524,UI UX Design Professional,302.97,4961,4.0
+NextGen,SW5244,https://nextgen.co.uk/course/SW5244,Business Management Essentials,289.52,1325,3.6
+IMOH,RJ4806,https://imoh.co.uk/course/RJ4806,Business Management Essentials,169.41,387,
+StudyHub,KI8214,https://studyhub.co.uk/course/KI8214,Leadership and Communication,297.51,4909,4.4
+NextGen,HG9485,https://nextgen.co.uk/course/HG9485,Digital Marketing Diploma,145.24,2112,3.7
+Global Edulink,VZ9814,https://globaledulink.co.uk/course/VZ9814,Graphic Design Masterclass,17.66,2618,
+Centre of Excellence,XE0397,https://centreofexcellence.co.uk/course/XE0397,Web Development Diploma,107.37,1545,3.5
+Centre of Excellence,SS7641,https://centreofexcellence.co.uk/course/SS7641,Graphic Design Masterclass,107.43,441,4.6
+StudyHub,PO7055,https://studyhub.co.uk/course/PO7055,Excel for Data Analysis,387.92,3611,4.0
+NextGen,BN8008,https://nextgen.co.uk/course/BN8008,Machine Learning Foundations,66.78,250,4.4
+IMOH,YO5006,https://imoh.co.uk/course/YO5006,Entrepreneurship and Innovation,172.14,4648,4.0
+Global Edulink,IG6321,,Web Development Diploma,169.34,2781,4.5
+New Skills Academy,IT0499,,Cyber Security Fundamentals,,2740,
+Global Edulink,FG9883,https://globaledulink.co.uk/course/FG9883,Project Management Professional,285.03,4543,4.2
+New Skills Academy,VS6960,https://newskillsacademy.co.uk/course/VS6960,UI UX Design Professional,266.14,1534,3.8
+Apex,YC8287,https://apex.co.uk/course/YC8287,Python Programming Bootcamp,448.92,613,4.3
+Apex,HF3685,https://apex.co.uk/course/HF3685,Healthcare Administration,350.8,1728,4.6
+StudyHub,CL2076,https://studyhub.co.uk/course/CL2076,Healthcare Administration,,1772,4.5
+NextGen,TO4008,https://nextgen.co.uk/course/TO4008,Python Programming Bootcamp,,2779,4.7
+Global Edulink,AJ5403,https://globaledulink.co.uk/course/AJ5403,Digital Marketing Diploma,320.37,2743,4.2
+Alpha,FG1784,https://alpha.co.uk/course/FG1784,Full Stack Development,,1413,4.8
+NextGen,YG1714,https://nextgen.co.uk/course/YG1714,Project Management Professional,274.28,1579,3.7
+Alpha,UK6721,https://alpha.co.uk/course/UK6721,Business Management Essentials,184.59,2287,3.7
+Centre of Excellence,WW2843,https://centreofexcellence.co.uk/course/WW2843,Artificial Intelligence Basics,121.69,4079,3.5
+FutureLearn,AF3892,,Excel for Data Analysis,182.76,1332,3.5
+Centre of Excellence,RV3082,https://centreofexcellence.co.uk/course/RV3082,Entrepreneurship and Innovation,260.27,4794,4.2
+Apex,AP3749,https://apex.co.uk/course/AP3749,Business Management Essentials,349.29,4829,3.9
+Centre of Excellence,XE0458,https://centreofexcellence.co.uk/course/XE0458,Graphic Design Masterclass,92.46,3793,4.3
+Alpha,LY9661,https://alpha.co.uk/course/LY9661,Web Development Diploma,354.48,1903,5.0
+Global Edulink,IK4214,,Machine Learning Foundations,481.6,3631,
+NextGen,QH5024,https://nextgen.co.uk/course/QH5024,Entrepreneurship and Innovation,359.01,1686,3.9
+Stonebridge College,RM4249,https://stonebridgecollege.co.uk/course/RM4249,Project Management Professional,28.07,2210,5.0
+IMOH,HR6092,https://imoh.co.uk/course/HR6092,Web Development Diploma,211.41,904,3.9
+FutureLearn,UD0967,https://futurelearn.co.uk/course/UD0967,Cloud Computing Essentials,455.05,3524,4.5
+Centre of Excellence,XO7331,https://centreofexcellence.co.uk/course/XO7331,Level 3 Data Analytics,270.16,2827,5.0
+IMOH,UF8645,https://imoh.co.uk/course/UF8645,Business Management Essentials,128.61,4981,3.6
+New Skills Academy,DM5537,https://newskillsacademy.co.uk/course/DM5537,Cloud Computing Essentials,,4546,4.6
+Stonebridge College,VX4941,https://stonebridgecollege.co.uk/course/VX4941,Social Media Marketing,190.21,2981,5.0
+New Skills Academy,GG6756,https://newskillsacademy.co.uk/course/GG6756,Healthcare Administration,205.42,3632,3.6
+New Skills Academy,CH2351,https://newskillsacademy.co.uk/course/CH2351,Artificial Intelligence Basics,419.3,1197,4.3
+Centre of Excellence,SS0454,,Graphic Design Masterclass,350.95,1844,4.4
+Centre of Excellence,KU9085,https://centreofexcellence.co.uk/course/KU9085,Social Media Marketing,342.01,1419,4.3
+StudyHub,YH3885,https://studyhub.co.uk/course/YH3885,UI UX Design Professional,120.98,2961,3.6
+Stonebridge College,XM2436,https://stonebridgecollege.co.uk/course/XM2436,Machine Learning Foundations,470.86,2009,4.1
+NextGen,VX9595,https://nextgen.co.uk/course/VX9595,Level 3 Data Analytics,469.0,4786,4.5
+IMOH,QD4032,https://imoh.co.uk/course/QD4032,Financial Accounting Course,370.26,4111,4.5
+Alpha,TJ7820,https://alpha.co.uk/course/TJ7820,Level 3 Data Analytics,121.99,673,4.3
+Global Edulink,BY2090,https://globaledulink.co.uk/course/BY2090,Level 3 Data Analytics,269.53,2099,5.0
+FutureLearn,FA1165,https://futurelearn.co.uk/course/FA1165,Graphic Design Masterclass,483.06,4598,
+New Skills Academy,ST1671,https://newskillsacademy.co.uk/course/ST1671,Project Management Professional,320.22,2106,3.9
+Apex,CA3693,https://apex.co.uk/course/CA3693,Graphic Design Masterclass,353.18,2305,4.8
+IMOH,PV2636,https://imoh.co.uk/course/PV2636,Business Management Essentials,444.67,3241,4.8
+Stonebridge College,UJ4353,https://stonebridgecollege.co.uk/course/UJ4353,Leadership and Communication,426.95,1698,3.7
+New Skills Academy,CY6874,https://newskillsacademy.co.uk/course/CY6874,Excel for Data Analysis,450.29,3973,4.4
+Apex,QX7485,https://apex.co.uk/course/QX7485,Financial Accounting Course,192.42,148,5.0
+FutureLearn,VC8246,https://futurelearn.co.uk/course/VC8246,Machine Learning Foundations,149.12,4483,4.2
+Alpha,AW1273,https://alpha.co.uk/course/AW1273,Full Stack Development,,1006,3.8
+Apex,ON1245,https://apex.co.uk/course/ON1245,Artificial Intelligence Basics,358.97,4543,4.0
+New Skills Academy,QM7026,https://newskillsacademy.co.uk/course/QM7026,Web Development Diploma,,1268,4.5
+Stonebridge College,JO3953,https://stonebridgecollege.co.uk/course/JO3953,Cloud Computing Essentials,288.47,4605,4.3
+Apex,HF7379,https://apex.co.uk/course/HF7379,Project Management Professional,321.8,1095,3.9
+FutureLearn,FM7952,https://futurelearn.co.uk/course/FM7952,Business Management Essentials,486.78,3486,4.2
+FutureLearn,HJ3710,https://futurelearn.co.uk/course/HJ3710,Digital Marketing Diploma,453.99,275,4.0
+Global Edulink,HY6710,,Web Development Diploma,,1009,4.8
+New Skills Academy,MI9281,https://newskillsacademy.co.uk/course/MI9281,Cyber Security Fundamentals,122.79,865,3.9
+Centre of Excellence,MP6189,https://centreofexcellence.co.uk/course/MP6189,Cyber Security Fundamentals,21.91,3170,3.6
+FutureLearn,DT6725,https://futurelearn.co.uk/course/DT6725,Cloud Computing Essentials,497.33,2255,4.9
+New Skills Academy,HP4509,https://newskillsacademy.co.uk/course/HP4509,Business Management Essentials,,1110,4.9
+FutureLearn,QG0251,https://futurelearn.co.uk/course/QG0251,Leadership and Communication,219.81,4326,4.4
+New Skills Academy,RM0228,https://newskillsacademy.co.uk/course/RM0228,Cyber Security Fundamentals,490.36,1189,3.9
+FutureLearn,YU6694,https://futurelearn.co.uk/course/YU6694,UI UX Design Professional,198.7,1234,4.0
+FutureLearn,QX8013,https://futurelearn.co.uk/course/QX8013,Entrepreneurship and Innovation,93.05,1866,4.1
+Apex,LM3425,https://apex.co.uk/course/LM3425,Cloud Computing Essentials,423.66,1945,3.6
+IMOH,PX7602,,Entrepreneurship and Innovation,112.37,4064,5.0
+Stonebridge College,YZ6207,https://stonebridgecollege.co.uk/course/YZ6207,Social Media Marketing,78.64,204,3.9
+Global Edulink,QX1564,https://globaledulink.co.uk/course/QX1564,Cyber Security Fundamentals,,3225,4.5
+New Skills Academy,JI6836,https://newskillsacademy.co.uk/course/JI6836,Web Development Diploma,354.22,2856,4.1
+Centre of Excellence,VO4339,https://centreofexcellence.co.uk/course/VO4339,Machine Learning Foundations,135.54,2505,4.9
+Global Edulink,VA8405,https://globaledulink.co.uk/course/VA8405,Full Stack Development,260.56,4181,4.7
+New Skills Academy,QT2594,https://newskillsacademy.co.uk/course/QT2594,Social Media Marketing,328.48,4545,3.6
+IMOH,AQ7730,https://imoh.co.uk/course/AQ7730,Leadership and Communication,444.44,1216,4.1
+IMOH,FV1961,https://imoh.co.uk/course/FV1961,Web Development Diploma,56.05,2824,4.5
+Global Edulink,SK4441,https://globaledulink.co.uk/course/SK4441,Graphic Design Masterclass,170.79,3819,4.3
+Stonebridge College,NW8274,https://stonebridgecollege.co.uk/course/NW8274,Excel for Data Analysis,150.41,1765,3.6
+Apex,VH2594,https://apex.co.uk/course/VH2594,Python Programming Bootcamp,158.6,2541,4.0
+New Skills Academy,OI5543,https://newskillsacademy.co.uk/course/OI5543,Graphic Design Masterclass,415.66,3101,4.9
+FutureLearn,OG7077,https://futurelearn.co.uk/course/OG7077,Machine Learning Foundations,234.06,4919,3.6
+Centre of Excellence,ZU6191,https://centreofexcellence.co.uk/course/ZU6191,Entrepreneurship and Innovation,270.36,4192,4.5
+Alpha,WW4547,https://alpha.co.uk/course/WW4547,Leadership and Communication,,4414,5.0
+NextGen,BU2630,https://nextgen.co.uk/course/BU2630,Financial Accounting Course,360.15,1732,4.7
+Global Edulink,JI7780,https://globaledulink.co.uk/course/JI7780,Cyber Security Fundamentals,142.71,3725,4.6
+FutureLearn,QX9740,https://futurelearn.co.uk/course/QX9740,Business Management Essentials,132.92,166,3.6
+New Skills Academy,EH0303,https://newskillsacademy.co.uk/course/EH0303,Leadership and Communication,219.87,1981,4.1
+NextGen,GK6116,https://nextgen.co.uk/course/GK6116,Machine Learning Foundations,,562,4.2
+Stonebridge College,RM5264,https://stonebridgecollege.co.uk/course/RM5264,Level 3 Data Analytics,127.5,609,3.8
+New Skills Academy,XR1435,https://newskillsacademy.co.uk/course/XR1435,Leadership and Communication,467.96,3393,4.3
+Apex,LH9813,https://apex.co.uk/course/LH9813,Human Resource Management,331.98,630,4.4
+Stonebridge College,HS0830,https://stonebridgecollege.co.uk/course/HS0830,Digital Marketing Diploma,215.6,3197,4.3
+Stonebridge College,TV9728,https://stonebridgecollege.co.uk/course/TV9728,Artificial Intelligence Basics,87.74,2794,4.0
+FutureLearn,QR7686,https://futurelearn.co.uk/course/QR7686,Digital Marketing Diploma,54.98,3168,3.6
+Apex,UA3193,https://apex.co.uk/course/UA3193,Leadership and Communication,429.18,3109,3.8
+NextGen,FU8352,https://nextgen.co.uk/course/FU8352,Project Management Professional,18.41,2529,4.7
+Apex,XY9288,,Cloud Computing Essentials,179.69,1807,4.5
+IMOH,DZ8799,https://imoh.co.uk/course/DZ8799,UI UX Design Professional,33.55,2899,
+Alpha,CK2137,https://alpha.co.uk/course/CK2137,Healthcare Administration,17.5,3780,4.3
+Stonebridge College,JQ3646,https://stonebridgecollege.co.uk/course/JQ3646,UI UX Design Professional,429.68,1398,4.5
+Alpha,XF0893,https://alpha.co.uk/course/XF0893,Leadership and Communication,311.77,385,4.5
+IMOH,DY3408,https://imoh.co.uk/course/DY3408,Python Programming Bootcamp,,945,4.5
+Centre of Excellence,LR7947,,Python Programming Bootcamp,402.47,1981,4.1
+Centre of Excellence,RV6926,,Graphic Design Masterclass,325.21,4050,4.7
+New Skills Academy,LG3939,https://newskillsacademy.co.uk/course/LG3939,Human Resource Management,412.11,3963,3.8
+StudyHub,KE1846,https://studyhub.co.uk/course/KE1846,Full Stack Development,144.24,4157,3.7
+StudyHub,BI9728,https://studyhub.co.uk/course/BI9728,UI UX Design Professional,18.93,2596,4.4
+FutureLearn,PV2775,https://futurelearn.co.uk/course/PV2775,Healthcare Administration,174.91,4235,4.0
+NextGen,ZO7181,https://nextgen.co.uk/course/ZO7181,Human Resource Management,423.99,1675,4.0
+FutureLearn,PA2141,https://futurelearn.co.uk/course/PA2141,Cyber Security Fundamentals,137.74,4024,3.7
+New Skills Academy,LJ5426,https://newskillsacademy.co.uk/course/LJ5426,Excel for Data Analysis,351.4,1566,4.9
+Apex,LZ0446,https://apex.co.uk/course/LZ0446,Social Media Marketing,29.2,778,4.7
+New Skills Academy,BC6026,https://newskillsacademy.co.uk/course/BC6026,UI UX Design Professional,148.2,3515,4.1
+Alpha,JP2547,https://alpha.co.uk/course/JP2547,Business Management Essentials,288.57,2836,5.0
+Global Edulink,SF4234,https://globaledulink.co.uk/course/SF4234,Leadership and Communication,212.18,2193,4.0
+IMOH,II2964,https://imoh.co.uk/course/II2964,Cyber Security Fundamentals,,4182,3.9
+IMOH,CC7855,https://imoh.co.uk/course/CC7855,UI UX Design Professional,343.12,2376,4.6
+Global Edulink,ID3678,https://globaledulink.co.uk/course/ID3678,Digital Marketing Diploma,60.53,4002,4.3
+Apex,PJ5262,https://apex.co.uk/course/PJ5262,Business Management Essentials,414.96,1415,3.9
+Alpha,VJ7588,https://alpha.co.uk/course/VJ7588,Full Stack Development,58.99,445,4.9
+Stonebridge College,RO6660,https://stonebridgecollege.co.uk/course/RO6660,Healthcare Administration,425.1,4410,4.0
+Apex,XJ1160,https://apex.co.uk/course/XJ1160,Level 3 Data Analytics,475.53,4996,
+IMOH,TF4337,https://imoh.co.uk/course/TF4337,Entrepreneurship and Innovation,,3190,3.9
+Stonebridge College,CB1662,https://stonebridgecollege.co.uk/course/CB1662,Leadership and Communication,171.05,2988,3.8
+New Skills Academy,PK2531,https://newskillsacademy.co.uk/course/PK2531,Entrepreneurship and Innovation,473.64,1217,4.7
+New Skills Academy,NI2902,,Graphic Design Masterclass,54.69,3032,5.0
+NextGen,TH1441,,UI UX Design Professional,37.38,782,4.0
+FutureLearn,NV8080,https://futurelearn.co.uk/course/NV8080,Level 3 Data Analytics,67.36,1003,4.4
+New Skills Academy,XW5574,https://newskillsacademy.co.uk/course/XW5574,Business Management Essentials,59.55,1592,4.1
+Centre of Excellence,AI8689,https://centreofexcellence.co.uk/course/AI8689,Cyber Security Fundamentals,119.06,3043,4.8
+Centre of Excellence,VG5533,https://centreofexcellence.co.uk/course/VG5533,Financial Accounting Course,81.84,3286,3.8
+FutureLearn,IE5159,https://futurelearn.co.uk/course/IE5159,Human Resource Management,,1438,4.1
+Alpha,SV8211,https://alpha.co.uk/course/SV8211,Full Stack Development,408.27,560,4.9
+NextGen,TR1747,https://nextgen.co.uk/course/TR1747,Entrepreneurship and Innovation,300.03,1877,4.1
+New Skills Academy,RW6939,https://newskillsacademy.co.uk/course/RW6939,Financial Accounting Course,50.92,2973,4.3
+NextGen,LM6753,https://nextgen.co.uk/course/LM6753,Cyber Security Fundamentals,217.87,3652,3.7
+Apex,MA3269,https://apex.co.uk/course/MA3269,Cyber Security Fundamentals,251.39,4798,4.1
+Stonebridge College,PJ5970,,Entrepreneurship and Innovation,290.02,505,3.7
+FutureLearn,IM1018,https://futurelearn.co.uk/course/IM1018,Financial Accounting Course,328.11,3122,4.5
+IMOH,NE2445,https://imoh.co.uk/course/NE2445,Project Management Professional,126.38,554,4.1
+Alpha,JH4357,https://alpha.co.uk/course/JH4357,Financial Accounting Course,150.0,873,4.3
+IMOH,IO3289,https://imoh.co.uk/course/IO3289,Full Stack Development,223.8,2155,3.5
+NextGen,IP1396,https://nextgen.co.uk/course/IP1396,Machine Learning Foundations,485.24,1902,4.0
+NextGen,PY3378,https://nextgen.co.uk/course/PY3378,Excel for Data Analysis,31.27,3334,5.0
+IMOH,QL3312,,Social Media Marketing,46.16,1300,4.5
+FutureLearn,FD0817,https://futurelearn.co.uk/course/FD0817,Excel for Data Analysis,46.96,1306,3.8
+StudyHub,RW6511,https://studyhub.co.uk/course/RW6511,Full Stack Development,154.3,3634,4.4
+NextGen,SB3796,https://nextgen.co.uk/course/SB3796,Cloud Computing Essentials,296.31,2753,4.6
+FutureLearn,NI8483,https://futurelearn.co.uk/course/NI8483,Entrepreneurship and Innovation,,1403,4.9
+New Skills Academy,MH3598,https://newskillsacademy.co.uk/course/MH3598,Full Stack Development,446.23,3069,3.7
+NextGen,WB4397,https://nextgen.co.uk/course/WB4397,Excel for Data Analysis,174.47,1195,3.8
+IMOH,HT2914,https://imoh.co.uk/course/HT2914,Artificial Intelligence Basics,237.21,2795,3.8
+New Skills Academy,XY4333,https://newskillsacademy.co.uk/course/XY4333,Cyber Security Fundamentals,,4186,3.9
+Alpha,FI0731,https://alpha.co.uk/course/FI0731,Digital Marketing Diploma,,2558,4.5
+Apex,XM8746,https://apex.co.uk/course/XM8746,Cyber Security Fundamentals,89.68,1631,3.6
+StudyHub,GV5751,https://studyhub.co.uk/course/GV5751,Web Development Diploma,470.86,305,4.4
+FutureLearn,HB4741,https://futurelearn.co.uk/course/HB4741,Social Media Marketing,460.4,59,4.9
+Stonebridge College,NQ5720,https://stonebridgecollege.co.uk/course/NQ5720,Human Resource Management,434.37,1065,4.1
+FutureLearn,OE6539,https://futurelearn.co.uk/course/OE6539,UI UX Design Professional,407.17,273,5.0
+Global Edulink,UN0803,https://globaledulink.co.uk/course/UN0803,Human Resource Management,,4208,4.1
+Apex,TJ0261,https://apex.co.uk/course/TJ0261,Entrepreneurship and Innovation,416.29,4834,4.8
+Alpha,DJ3686,https://alpha.co.uk/course/DJ3686,Social Media Marketing,239.66,560,3.9
+NextGen,VB7420,https://nextgen.co.uk/course/VB7420,Graphic Design Masterclass,37.62,4663,4.5
+StudyHub,II3840,https://studyhub.co.uk/course/II3840,Graphic Design Masterclass,271.83,1718,5.0
+Apex,JU8313,https://apex.co.uk/course/JU8313,Machine Learning Foundations,282.16,3686,4.9
+New Skills Academy,XK9449,https://newskillsacademy.co.uk/course/XK9449,Excel for Data Analysis,426.33,2098,4.9
+Apex,US0685,,Financial Accounting Course,307.03,4594,4.5
+IMOH,CR3646,https://imoh.co.uk/course/CR3646,Human Resource Management,312.88,3469,3.9
+New Skills Academy,BW3929,,Digital Marketing Diploma,20.87,299,4.3
+IMOH,RK5710,https://imoh.co.uk/course/RK5710,Full Stack Development,388.44,4012,4.0
+New Skills Academy,AB7335,,Full Stack Development,410.03,285,4.3
+NextGen,RY3755,https://nextgen.co.uk/course/RY3755,Machine Learning Foundations,439.56,1898,4.4
+Alpha,QG1743,https://alpha.co.uk/course/QG1743,UI UX Design Professional,245.22,3328,4.7
+IMOH,GG4929,https://imoh.co.uk/course/GG4929,Social Media Marketing,323.29,2172,3.8
+FutureLearn,DW4840,https://futurelearn.co.uk/course/DW4840,Financial Accounting Course,76.82,4909,5.0
+Alpha,SO2217,https://alpha.co.uk/course/SO2217,Project Management Professional,307.96,1408,4.2
+Alpha,ND2170,,UI UX Design Professional,453.04,1381,4.3
+Stonebridge College,JU5603,https://stonebridgecollege.co.uk/course/JU5603,Social Media Marketing,230.95,1408,4.1
+Global Edulink,KK5130,https://globaledulink.co.uk/course/KK5130,Cloud Computing Essentials,314.82,2178,4.9
+Global Edulink,IW7619,https://globaledulink.co.uk/course/IW7619,Leadership and Communication,,3522,4.2
+Global Edulink,XB1113,https://globaledulink.co.uk/course/XB1113,Artificial Intelligence Basics,136.54,3081,3.6
+Alpha,YN2019,https://alpha.co.uk/course/YN2019,Healthcare Administration,314.19,4350,3.8
+NextGen,QP0655,https://nextgen.co.uk/course/QP0655,Project Management Professional,294.03,4092,3.6
+Stonebridge College,SP8580,https://stonebridgecollege.co.uk/course/SP8580,Digital Marketing Diploma,73.15,3495,4.5
+Stonebridge College,GF5608,https://stonebridgecollege.co.uk/course/GF5608,UI UX Design Professional,98.23,2997,4.0
+Apex,QH2844,https://apex.co.uk/course/QH2844,Digital Marketing Diploma,449.43,3316,4.3
+NextGen,LM2637,https://nextgen.co.uk/course/LM2637,Human Resource Management,486.82,4206,3.8
+Centre of Excellence,DJ5342,https://centreofexcellence.co.uk/course/DJ5342,Artificial Intelligence Basics,30.03,4749,4.0
+NextGen,CH3628,,Project Management Professional,25.58,573,
+Alpha,YS1194,https://alpha.co.uk/course/YS1194,Web Development Diploma,188.49,1803,
+New Skills Academy,AY5923,https://newskillsacademy.co.uk/course/AY5923,Digital Marketing Diploma,29.26,2346,4.2
+Apex,MW6458,https://apex.co.uk/course/MW6458,Leadership and Communication,347.01,4252,4.9
+NextGen,WS7345,https://nextgen.co.uk/course/WS7345,Graphic Design Masterclass,39.93,2105,4.6
+Alpha,OB5729,https://alpha.co.uk/course/OB5729,Full Stack Development,100.42,2816,4.3
+IMOH,DC3953,https://imoh.co.uk/course/DC3953,Python Programming Bootcamp,462.78,575,4.4
+FutureLearn,PK0078,https://futurelearn.co.uk/course/PK0078,Excel for Data Analysis,190.77,3337,4.6
+New Skills Academy,DX1933,https://newskillsacademy.co.uk/course/DX1933,Full Stack Development,40.55,1696,4.8
+Apex,PN5454,https://apex.co.uk/course/PN5454,Level 3 Data Analytics,377.31,1581,3.7
+Alpha,IC4388,https://alpha.co.uk/course/IC4388,Level 3 Data Analytics,229.23,1956,
+Stonebridge College,MZ7757,https://stonebridgecollege.co.uk/course/MZ7757,Entrepreneurship and Innovation,141.93,4630,3.8
+New Skills Academy,EQ6816,https://newskillsacademy.co.uk/course/EQ6816,Digital Marketing Diploma,286.34,1346,
+Stonebridge College,YC0316,https://stonebridgecollege.co.uk/course/YC0316,Leadership and Communication,170.47,4682,4.8
+Global Edulink,UX8701,https://globaledulink.co.uk/course/UX8701,Graphic Design Masterclass,300.86,1653,4.0
+Global Edulink,IR5319,,Financial Accounting Course,327.92,1219,3.6
+Global Edulink,JU7666,https://globaledulink.co.uk/course/JU7666,Graphic Design Masterclass,273.18,4768,4.6
+FutureLearn,HH9977,https://futurelearn.co.uk/course/HH9977,Social Media Marketing,221.51,2522,4.0
+Alpha,MO9725,https://alpha.co.uk/course/MO9725,UI UX Design Professional,450.83,1811,3.9
+Centre of Excellence,XK3710,https://centreofexcellence.co.uk/course/XK3710,Cyber Security Fundamentals,254.14,3862,4.9
+Alpha,YR7282,https://alpha.co.uk/course/YR7282,UI UX Design Professional,13.69,2374,3.7
+Apex,DQ5265,https://apex.co.uk/course/DQ5265,Artificial Intelligence Basics,130.52,2613,4.8
+StudyHub,CI4619,https://studyhub.co.uk/course/CI4619,Project Management Professional,,2447,3.8
+Centre of Excellence,QW4672,https://centreofexcellence.co.uk/course/QW4672,Web Development Diploma,449.42,4904,3.6
+StudyHub,XC5579,https://studyhub.co.uk/course/XC5579,Project Management Professional,18.94,4374,5.0
+Centre of Excellence,WE9934,https://centreofexcellence.co.uk/course/WE9934,Web Development Diploma,64.9,517,
+StudyHub,AO1929,https://studyhub.co.uk/course/AO1929,UI UX Design Professional,434.1,695,5.0
+Global Edulink,MY8411,https://globaledulink.co.uk/course/MY8411,Project Management Professional,250.47,4339,4.3
+New Skills Academy,QS0326,https://newskillsacademy.co.uk/course/QS0326,Graphic Design Masterclass,290.09,1191,4.6
+NextGen,PQ4434,https://nextgen.co.uk/course/PQ4434,Business Management Essentials,107.76,4677,3.9
+NextGen,ZM9034,https://nextgen.co.uk/course/ZM9034,Healthcare Administration,66.27,4799,3.9
+Alpha,HS0660,https://alpha.co.uk/course/HS0660,Business Management Essentials,294.81,4284,4.9
+New Skills Academy,HK5873,https://newskillsacademy.co.uk/course/HK5873,Business Management Essentials,167.11,3794,4.1
+Apex,JF9449,https://apex.co.uk/course/JF9449,Human Resource Management,232.59,310,3.6
+Centre of Excellence,SX7887,https://centreofexcellence.co.uk/course/SX7887,Full Stack Development,495.08,2110,
+IMOH,NN3918,https://imoh.co.uk/course/NN3918,Excel for Data Analysis,53.06,1392,4.5
+FutureLearn,OD3512,https://futurelearn.co.uk/course/OD3512,Entrepreneurship and Innovation,382.51,2044,4.2
+New Skills Academy,CN8454,https://newskillsacademy.co.uk/course/CN8454,Digital Marketing Diploma,306.99,3540,
+Global Edulink,MU7387,https://globaledulink.co.uk/course/MU7387,Entrepreneurship and Innovation,465.47,4077,4.9
+IMOH,BI0990,https://imoh.co.uk/course/BI0990,Social Media Marketing,70.91,425,5.0
+StudyHub,HE1679,https://studyhub.co.uk/course/HE1679,Human Resource Management,110.45,1620,4.9
+Centre of Excellence,LX3098,https://centreofexcellence.co.uk/course/LX3098,Python Programming Bootcamp,363.58,3693,4.8
+Alpha,DZ3198,https://alpha.co.uk/course/DZ3198,Level 3 Data Analytics,78.49,922,4.6
+Apex,MS4324,https://apex.co.uk/course/MS4324,Python Programming Bootcamp,401.77,1364,3.7
+Apex,EW7066,https://apex.co.uk/course/EW7066,Level 3 Data Analytics,409.14,127,4.3
+FutureLearn,FC0570,https://futurelearn.co.uk/course/FC0570,Digital Marketing Diploma,,1115,4.1
+Centre of Excellence,LO7719,https://centreofexcellence.co.uk/course/LO7719,Artificial Intelligence Basics,410.13,1368,4.6
+Stonebridge College,IP6331,https://stonebridgecollege.co.uk/course/IP6331,Excel for Data Analysis,450.84,4720,4.3
+FutureLearn,KH5571,https://futurelearn.co.uk/course/KH5571,Leadership and Communication,123.78,1298,4.1
+Global Edulink,MZ9673,https://globaledulink.co.uk/course/MZ9673,Leadership and Communication,270.61,4966,4.9
+Centre of Excellence,DJ7483,https://centreofexcellence.co.uk/course/DJ7483,Python Programming Bootcamp,315.88,2020,4.1
+New Skills Academy,XO9512,https://newskillsacademy.co.uk/course/XO9512,Graphic Design Masterclass,173.08,1252,4.0
+Alpha,QX8071,https://alpha.co.uk/course/QX8071,Healthcare Administration,78.24,2085,4.6
+Centre of Excellence,RP8177,https://centreofexcellence.co.uk/course/RP8177,UI UX Design Professional,290.84,2254,
+FutureLearn,MW3909,https://futurelearn.co.uk/course/MW3909,Business Management Essentials,162.74,1000,3.7
+New Skills Academy,XS7323,https://newskillsacademy.co.uk/course/XS7323,Web Development Diploma,110.23,1907,4.6
+Centre of Excellence,MQ3384,https://centreofexcellence.co.uk/course/MQ3384,Social Media Marketing,,2962,3.7
+Alpha,XJ4521,https://alpha.co.uk/course/XJ4521,Healthcare Administration,272.88,4960,4.8
+Global Edulink,YP4133,https://globaledulink.co.uk/course/YP4133,Artificial Intelligence Basics,72.47,3278,4.3
+New Skills Academy,OY3747,https://newskillsacademy.co.uk/course/OY3747,Social Media Marketing,248.32,2421,4.6
+New Skills Academy,EU1749,https://newskillsacademy.co.uk/course/EU1749,UI UX Design Professional,362.82,144,4.4
+StudyHub,NV0800,https://studyhub.co.uk/course/NV0800,Python Programming Bootcamp,287.1,843,3.9
+FutureLearn,BD2406,https://futurelearn.co.uk/course/BD2406,Full Stack Development,179.39,4156,4.9
+New Skills Academy,RA5407,https://newskillsacademy.co.uk/course/RA5407,UI UX Design Professional,177.84,3255,4.1
+Apex,AV6891,https://apex.co.uk/course/AV6891,Business Management Essentials,236.38,2399,4.4
+Global Edulink,DE5823,https://globaledulink.co.uk/course/DE5823,Human Resource Management,456.81,3055,3.7
+Centre of Excellence,LG6280,https://centreofexcellence.co.uk/course/LG6280,Digital Marketing Diploma,135.45,1689,4.8
+IMOH,KJ4670,https://imoh.co.uk/course/KJ4670,Leadership and Communication,466.74,4501,4.9
+Alpha,OW0502,https://alpha.co.uk/course/OW0502,Entrepreneurship and Innovation,397.14,3926,4.6
+New Skills Academy,HY6256,https://newskillsacademy.co.uk/course/HY6256,Project Management Professional,84.74,653,4.1
+Alpha,AF1889,https://alpha.co.uk/course/AF1889,Web Development Diploma,43.77,4196,
+NextGen,OO8653,https://nextgen.co.uk/course/OO8653,Python Programming Bootcamp,467.84,3847,4.9
+IMOH,NZ0483,https://imoh.co.uk/course/NZ0483,Full Stack Development,70.18,3526,3.7
+Stonebridge College,KU0294,https://stonebridgecollege.co.uk/course/KU0294,Human Resource Management,101.3,3080,4.9
+Global Edulink,YL6606,https://globaledulink.co.uk/course/YL6606,Artificial Intelligence Basics,436.25,4712,3.8
+IMOH,CE7673,https://imoh.co.uk/course/CE7673,Business Management Essentials,307.87,3552,3.6
+IMOH,AI3211,https://imoh.co.uk/course/AI3211,Cloud Computing Essentials,174.25,3557,
+Global Edulink,OK0305,https://globaledulink.co.uk/course/OK0305,Financial Accounting Course,305.82,624,4.1
+Centre of Excellence,AK7759,https://centreofexcellence.co.uk/course/AK7759,Artificial Intelligence Basics,433.12,435,4.2
+Stonebridge College,NR1221,,Project Management Professional,245.61,3650,4.4
+Centre of Excellence,HH7397,https://centreofexcellence.co.uk/course/HH7397,Social Media Marketing,26.09,4908,3.7
+Stonebridge College,QL1038,https://stonebridgecollege.co.uk/course/QL1038,Machine Learning Foundations,96.43,2040,3.7
+Alpha,LL8653,https://alpha.co.uk/course/LL8653,Full Stack Development,26.6,4430,4.4
+FutureLearn,ME3376,https://futurelearn.co.uk/course/ME3376,Entrepreneurship and Innovation,319.81,2253,3.8
+FutureLearn,IH7391,https://futurelearn.co.uk/course/IH7391,UI UX Design Professional,262.44,4994,4.9
+NextGen,RO9474,https://nextgen.co.uk/course/RO9474,Web Development Diploma,82.84,3751,4.8
+IMOH,VU4462,https://imoh.co.uk/course/VU4462,Python Programming Bootcamp,272.18,4472,4.4
+Centre of Excellence,UB9445,https://centreofexcellence.co.uk/course/UB9445,Leadership and Communication,42.87,2312,4.1
+Global Edulink,AZ7859,https://globaledulink.co.uk/course/AZ7859,Business Management Essentials,401.89,3439,3.8
+FutureLearn,RJ6096,https://futurelearn.co.uk/course/RJ6096,Machine Learning Foundations,103.44,4574,4.1
+Alpha,ZL0255,https://alpha.co.uk/course/ZL0255,Entrepreneurship and Innovation,419.92,2115,3.9
+Stonebridge College,FJ4661,https://stonebridgecollege.co.uk/course/FJ4661,Level 3 Data Analytics,359.89,3107,4.3
+New Skills Academy,CK9191,https://newskillsacademy.co.uk/course/CK9191,Web Development Diploma,225.97,2211,4.2
+Alpha,LF4446,https://alpha.co.uk/course/LF4446,Financial Accounting Course,385.02,3385,4.8
+IMOH,HV1866,https://imoh.co.uk/course/HV1866,Project Management Professional,473.6,4945,3.9
+FutureLearn,NO3447,,Project Management Professional,449.74,3501,4.7
+NextGen,QL0615,https://nextgen.co.uk/course/QL0615,Machine Learning Foundations,489.68,1873,
+StudyHub,SF7801,https://studyhub.co.uk/course/SF7801,UI UX Design Professional,332.87,882,4.3
+NextGen,JF1649,https://nextgen.co.uk/course/JF1649,Financial Accounting Course,134.41,2540,4.3
+Stonebridge College,KK1341,https://stonebridgecollege.co.uk/course/KK1341,Web Development Diploma,301.57,3360,4.4
+Stonebridge College,PR3213,https://stonebridgecollege.co.uk/course/PR3213,Python Programming Bootcamp,444.86,3725,3.9
+Global Edulink,KP5445,https://globaledulink.co.uk/course/KP5445,Project Management Professional,58.73,2193,5.0
+Global Edulink,EH1868,https://globaledulink.co.uk/course/EH1868,Level 3 Data Analytics,305.57,2588,4.9
+New Skills Academy,DV9546,https://newskillsacademy.co.uk/course/DV9546,Leadership and Communication,472.76,4327,3.8
+New Skills Academy,MC0722,https://newskillsacademy.co.uk/course/MC0722,UI UX Design Professional,153.64,993,3.6
+Apex,EL7751,https://apex.co.uk/course/EL7751,Business Management Essentials,320.29,2248,4.8
+Apex,UV3807,https://apex.co.uk/course/UV3807,UI UX Design Professional,70.16,964,4.4
+FutureLearn,ZC8729,https://futurelearn.co.uk/course/ZC8729,Cloud Computing Essentials,216.5,563,4.9
+Apex,JV4972,https://apex.co.uk/course/JV4972,Entrepreneurship and Innovation,316.13,3644,3.9
+Alpha,WP4678,,Digital Marketing Diploma,196.05,4616,3.6
+Stonebridge College,JH5372,https://stonebridgecollege.co.uk/course/JH5372,Healthcare Administration,417.02,854,4.1
+Global Edulink,ZR0979,https://globaledulink.co.uk/course/ZR0979,Healthcare Administration,280.5,3627,4.6
+NextGen,SD1328,https://nextgen.co.uk/course/SD1328,Machine Learning Foundations,78.66,2811,
+New Skills Academy,DQ6307,https://newskillsacademy.co.uk/course/DQ6307,Cyber Security Fundamentals,492.83,4273,3.8
+Centre of Excellence,NH9393,https://centreofexcellence.co.uk/course/NH9393,Level 3 Data Analytics,247.54,3330,3.9
+IMOH,TL6305,https://imoh.co.uk/course/TL6305,Graphic Design Masterclass,275.4,286,4.1
+Centre of Excellence,VM3251,https://centreofexcellence.co.uk/course/VM3251,Social Media Marketing,116.83,1351,4.8
+Alpha,XT0680,https://alpha.co.uk/course/XT0680,Project Management Professional,492.36,491,4.9
+New Skills Academy,LZ4998,https://newskillsacademy.co.uk/course/LZ4998,Web Development Diploma,348.7,854,3.5
+NextGen,WW0306,https://nextgen.co.uk/course/WW0306,Project Management Professional,458.01,3974,4.7
+StudyHub,KH6267,,Level 3 Data Analytics,254.06,2131,4.3
+FutureLearn,MD2606,https://futurelearn.co.uk/course/MD2606,Business Management Essentials,329.2,4733,3.8
+Centre of Excellence,SM2081,https://centreofexcellence.co.uk/course/SM2081,Human Resource Management,15.39,4102,3.9
+Apex,DU7191,https://apex.co.uk/course/DU7191,Excel for Data Analysis,140.58,4876,4.4
+Stonebridge College,AQ4761,https://stonebridgecollege.co.uk/course/AQ4761,Leadership and Communication,304.25,504,4.4
+Stonebridge College,RW0175,https://stonebridgecollege.co.uk/course/RW0175,Machine Learning Foundations,420.67,3078,4.1
+Alpha,ZI1205,https://alpha.co.uk/course/ZI1205,Full Stack Development,,4275,3.7
+Stonebridge College,HY0882,https://stonebridgecollege.co.uk/course/HY0882,Full Stack Development,371.64,2916,3.6
+Global Edulink,EK6772,https://globaledulink.co.uk/course/EK6772,Machine Learning Foundations,387.78,4174,4.1
+IMOH,GQ0803,https://imoh.co.uk/course/GQ0803,Financial Accounting Course,151.46,1186,4.6
+NextGen,KV4514,,Cyber Security Fundamentals,309.1,1383,4.2
+StudyHub,PA2993,https://studyhub.co.uk/course/PA2993,Web Development Diploma,335.2,4903,3.7
+Global Edulink,TL4651,,Cyber Security Fundamentals,247.04,1835,3.5
+Apex,CX9135,https://apex.co.uk/course/CX9135,Cyber Security Fundamentals,138.51,1812,4.8
+Apex,SS8004,https://apex.co.uk/course/SS8004,Cloud Computing Essentials,424.74,4510,3.7
+Stonebridge College,PI7717,https://stonebridgecollege.co.uk/course/PI7717,Level 3 Data Analytics,315.43,1574,4.0
+NextGen,MJ5823,https://nextgen.co.uk/course/MJ5823,Healthcare Administration,182.25,1290,4.6
+IMOH,UA8207,https://imoh.co.uk/course/UA8207,Entrepreneurship and Innovation,303.16,4170,3.9
+IMOH,MN0811,,Business Management Essentials,411.36,1302,3.5
+Stonebridge College,RC7080,https://stonebridgecollege.co.uk/course/RC7080,Digital Marketing Diploma,484.17,4247,4.4
+New Skills Academy,JX1908,https://newskillsacademy.co.uk/course/JX1908,Leadership and Communication,186.88,3165,4.7
+FutureLearn,IK7203,https://futurelearn.co.uk/course/IK7203,Excel for Data Analysis,481.43,379,4.5
+StudyHub,EU9904,https://studyhub.co.uk/course/EU9904,Web Development Diploma,265.44,4157,4.3
+Apex,IO0253,https://apex.co.uk/course/IO0253,Full Stack Development,437.74,4112,4.7
+FutureLearn,MP4719,https://futurelearn.co.uk/course/MP4719,Artificial Intelligence Basics,332.8,2471,4.5
+NextGen,AK2388,https://nextgen.co.uk/course/AK2388,Financial Accounting Course,490.48,3776,4.5
+StudyHub,TJ7329,https://studyhub.co.uk/course/TJ7329,Leadership and Communication,35.28,96,
+New Skills Academy,YZ1202,https://newskillsacademy.co.uk/course/YZ1202,Excel for Data Analysis,298.25,450,3.8
+Centre of Excellence,SJ9001,https://centreofexcellence.co.uk/course/SJ9001,Machine Learning Foundations,288.29,4395,4.0
+IMOH,PB6128,https://imoh.co.uk/course/PB6128,Machine Learning Foundations,69.06,4282,3.8
+Alpha,IH0275,https://alpha.co.uk/course/IH0275,Python Programming Bootcamp,66.49,876,4.9
+IMOH,EM4592,https://imoh.co.uk/course/EM4592,Web Development Diploma,,2469,4.8
+New Skills Academy,GD1686,,Digital Marketing Diploma,166.36,3611,4.5
+FutureLearn,VI0235,,Web Development Diploma,328.58,3273,3.8
+Apex,VE9855,https://apex.co.uk/course/VE9855,Business Management Essentials,69.08,180,4.5
+New Skills Academy,CU1072,https://newskillsacademy.co.uk/course/CU1072,Graphic Design Masterclass,176.54,4328,4.1
+Centre of Excellence,JQ6528,https://centreofexcellence.co.uk/course/JQ6528,Level 3 Data Analytics,290.49,4009,4.3
+IMOH,FQ8088,https://imoh.co.uk/course/FQ8088,Business Management Essentials,397.45,970,4.6
+StudyHub,YB9474,https://studyhub.co.uk/course/YB9474,Machine Learning Foundations,264.88,542,4.4
+Centre of Excellence,EF1280,https://centreofexcellence.co.uk/course/EF1280,Full Stack Development,124.15,360,4.2
+Stonebridge College,GH4502,https://stonebridgecollege.co.uk/course/GH4502,Python Programming Bootcamp,495.27,4396,4.8
+Centre of Excellence,FX5687,,Machine Learning Foundations,269.18,3860,3.6
+Alpha,MU3532,https://alpha.co.uk/course/MU3532,Level 3 Data Analytics,14.65,4174,4.7
+Alpha,PA8284,https://alpha.co.uk/course/PA8284,Human Resource Management,206.95,294,4.2
+Stonebridge College,ZZ1628,https://stonebridgecollege.co.uk/course/ZZ1628,Digital Marketing Diploma,294.57,1821,5.0
+FutureLearn,OZ3991,https://futurelearn.co.uk/course/OZ3991,Artificial Intelligence Basics,,970,
+Stonebridge College,IT3573,https://stonebridgecollege.co.uk/course/IT3573,Entrepreneurship and Innovation,266.03,2674,3.9
+Stonebridge College,DY8895,https://stonebridgecollege.co.uk/course/DY8895,Project Management Professional,64.13,1215,3.9
+New Skills Academy,AB6043,https://newskillsacademy.co.uk/course/AB6043,Full Stack Development,427.88,195,3.9
+FutureLearn,UI1880,https://futurelearn.co.uk/course/UI1880,Python Programming Bootcamp,30.63,754,4.9
+Stonebridge College,SD1530,https://stonebridgecollege.co.uk/course/SD1530,Machine Learning Foundations,,4544,
+Stonebridge College,CH1197,https://stonebridgecollege.co.uk/course/CH1197,Social Media Marketing,343.03,2284,4.9
+Alpha,EZ6972,https://alpha.co.uk/course/EZ6972,Entrepreneurship and Innovation,395.31,988,4.4
+NextGen,JT2107,https://nextgen.co.uk/course/JT2107,Entrepreneurship and Innovation,491.34,3465,4.2
+Centre of Excellence,WU5138,https://centreofexcellence.co.uk/course/WU5138,Full Stack Development,310.57,4917,3.8
+FutureLearn,QC4303,https://futurelearn.co.uk/course/QC4303,Financial Accounting Course,471.94,934,4.7
+NextGen,QZ8673,https://nextgen.co.uk/course/QZ8673,Level 3 Data Analytics,68.97,4371,4.1
+Apex,FS3770,https://apex.co.uk/course/FS3770,Cloud Computing Essentials,28.0,2603,
+Centre of Excellence,ZW4351,https://centreofexcellence.co.uk/course/ZW4351,Social Media Marketing,181.56,1846,4.4
+Stonebridge College,QR1082,https://stonebridgecollege.co.uk/course/QR1082,Financial Accounting Course,116.0,3220,
+Apex,YB1375,https://apex.co.uk/course/YB1375,Cyber Security Fundamentals,267.27,1964,4.1
+Alpha,PP4091,https://alpha.co.uk/course/PP4091,Leadership and Communication,381.54,2159,5.0
+NextGen,BI9459,https://nextgen.co.uk/course/BI9459,UI UX Design Professional,,4119,4.4
+Apex,RH0354,https://apex.co.uk/course/RH0354,Digital Marketing Diploma,376.46,3210,4.4
+Alpha,AC8640,https://alpha.co.uk/course/AC8640,Graphic Design Masterclass,294.24,3731,4.2
+NextGen,QZ4174,https://nextgen.co.uk/course/QZ4174,Healthcare Administration,201.67,2732,3.7
+IMOH,QK3310,https://imoh.co.uk/course/QK3310,Cloud Computing Essentials,445.49,1405,3.6
+New Skills Academy,GV5160,https://newskillsacademy.co.uk/course/GV5160,Human Resource Management,,1610,4.3
+Global Edulink,KT2035,https://globaledulink.co.uk/course/KT2035,UI UX Design Professional,52.62,1033,3.9
+New Skills Academy,OG2380,,Entrepreneurship and Innovation,12.49,4022,3.6
+Global Edulink,UR6171,https://globaledulink.co.uk/course/UR6171,Project Management Professional,270.98,86,3.8
+FutureLearn,VD4949,https://futurelearn.co.uk/course/VD4949,Python Programming Bootcamp,344.8,4086,5.0
+Stonebridge College,GX9033,https://stonebridgecollege.co.uk/course/GX9033,Financial Accounting Course,40.14,1374,4.2
+Apex,NX0757,https://apex.co.uk/course/NX0757,Business Management Essentials,300.28,2795,4.4
+Centre of Excellence,DO5911,https://centreofexcellence.co.uk/course/DO5911,Business Management Essentials,334.43,3980,4.8
+Apex,WW8265,https://apex.co.uk/course/WW8265,Social Media Marketing,369.62,4361,4.7
+StudyHub,EK6643,https://studyhub.co.uk/course/EK6643,Financial Accounting Course,332.64,1754,4.0
+FutureLearn,BM2337,,Web Development Diploma,126.96,1766,4.5
+Apex,VW6923,https://apex.co.uk/course/VW6923,Cloud Computing Essentials,,2519,3.8
+Alpha,HK6128,https://alpha.co.uk/course/HK6128,Social Media Marketing,442.0,606,4.8
+Global Edulink,WV5135,https://globaledulink.co.uk/course/WV5135,Python Programming Bootcamp,24.33,4571,3.7
+Global Edulink,WA1882,https://globaledulink.co.uk/course/WA1882,Cloud Computing Essentials,174.21,3791,4.9
+StudyHub,XS2856,https://studyhub.co.uk/course/XS2856,Business Management Essentials,10.55,3379,4.7
+StudyHub,GM4945,https://studyhub.co.uk/course/GM4945,Human Resource Management,258.66,344,3.8
+NextGen,VG8000,https://nextgen.co.uk/course/VG8000,Entrepreneurship and Innovation,51.21,1740,5.0
+FutureLearn,WQ6240,,Level 3 Data Analytics,319.59,4845,3.5
+New Skills Academy,XQ6028,https://newskillsacademy.co.uk/course/XQ6028,Web Development Diploma,411.15,1057,3.7
+Apex,LJ3246,https://apex.co.uk/course/LJ3246,Full Stack Development,382.9,4731,4.1
+Centre of Excellence,PA9985,https://centreofexcellence.co.uk/course/PA9985,Full Stack Development,421.66,1485,4.4
+Stonebridge College,HR4323,https://stonebridgecollege.co.uk/course/HR4323,Healthcare Administration,466.69,327,4.9
+Apex,RY6152,https://apex.co.uk/course/RY6152,Digital Marketing Diploma,,1315,4.9
+Stonebridge College,KI1042,https://stonebridgecollege.co.uk/course/KI1042,Leadership and Communication,91.53,967,4.6
+Centre of Excellence,KA7517,https://centreofexcellence.co.uk/course/KA7517,Artificial Intelligence Basics,242.05,71,4.4
+Global Edulink,QM9331,,UI UX Design Professional,32.41,2403,5.0
+NextGen,HM7759,https://nextgen.co.uk/course/HM7759,Financial Accounting Course,341.27,4861,4.6
+IMOH,FF8483,https://imoh.co.uk/course/FF8483,Entrepreneurship and Innovation,73.74,2478,
+Apex,MD0656,,Social Media Marketing,42.16,3154,4.0
+FutureLearn,NW3208,https://futurelearn.co.uk/course/NW3208,Python Programming Bootcamp,249.44,3044,3.9
+FutureLearn,IZ8918,https://futurelearn.co.uk/course/IZ8918,Project Management Professional,10.5,3603,3.9
+IMOH,MQ1602,https://imoh.co.uk/course/MQ1602,Project Management Professional,498.59,88,4.3
+Stonebridge College,TM7066,https://stonebridgecollege.co.uk/course/TM7066,Machine Learning Foundations,414.7,1148,3.8
+Centre of Excellence,ZJ0130,https://centreofexcellence.co.uk/course/ZJ0130,Financial Accounting Course,50.37,3205,
+Global Edulink,ER6263,https://globaledulink.co.uk/course/ER6263,Python Programming Bootcamp,143.9,2946,4.9
+IMOH,JP1822,https://imoh.co.uk/course/JP1822,Excel for Data Analysis,25.34,1038,4.9
+Stonebridge College,NL6194,https://stonebridgecollege.co.uk/course/NL6194,Graphic Design Masterclass,215.67,4076,4.9
+NextGen,YX4271,https://nextgen.co.uk/course/YX4271,Level 3 Data Analytics,382.45,4715,
+Stonebridge College,ND7736,https://stonebridgecollege.co.uk/course/ND7736,UI UX Design Professional,122.68,2030,3.8
+Stonebridge College,BZ6606,https://stonebridgecollege.co.uk/course/BZ6606,Leadership and Communication,435.38,841,4.1
+New Skills Academy,JO4166,https://newskillsacademy.co.uk/course/JO4166,Web Development Diploma,433.54,2305,4.3
+Centre of Excellence,RR2618,https://centreofexcellence.co.uk/course/RR2618,Business Management Essentials,88.03,1034,4.8
+Global Edulink,SD1111,https://globaledulink.co.uk/course/SD1111,Healthcare Administration,390.53,640,4.2
+Global Edulink,ZJ4159,https://globaledulink.co.uk/course/ZJ4159,Social Media Marketing,269.87,4494,3.7
+Alpha,GA0154,https://alpha.co.uk/course/GA0154,Cyber Security Fundamentals,25.94,3949,5.0
+Global Edulink,BS9649,https://globaledulink.co.uk/course/BS9649,Healthcare Administration,100.87,576,4.2
+New Skills Academy,BV8836,https://newskillsacademy.co.uk/course/BV8836,Leadership and Communication,67.48,3394,4.4
+IMOH,CT0861,https://imoh.co.uk/course/CT0861,Human Resource Management,131.29,570,3.8
+New Skills Academy,YG7331,https://newskillsacademy.co.uk/course/YG7331,Machine Learning Foundations,250.88,166,4.4
+New Skills Academy,HK8767,https://newskillsacademy.co.uk/course/HK8767,Business Management Essentials,222.29,3838,3.7
+NextGen,SB9145,https://nextgen.co.uk/course/SB9145,Entrepreneurship and Innovation,237.65,2063,4.1
+New Skills Academy,EJ3068,https://newskillsacademy.co.uk/course/EJ3068,Python Programming Bootcamp,245.17,4752,4.6
+New Skills Academy,XC4023,https://newskillsacademy.co.uk/course/XC4023,Excel for Data Analysis,331.92,778,4.8
+Stonebridge College,SF9856,https://stonebridgecollege.co.uk/course/SF9856,Full Stack Development,392.13,828,4.2
+IMOH,LS4661,https://imoh.co.uk/course/LS4661,UI UX Design Professional,,2498,3.7
+Stonebridge College,BQ1888,https://stonebridgecollege.co.uk/course/BQ1888,Cyber Security Fundamentals,289.74,641,4.2
+New Skills Academy,II2553,https://newskillsacademy.co.uk/course/II2553,Artificial Intelligence Basics,,2770,4.3
+IMOH,LU4841,https://imoh.co.uk/course/LU4841,Social Media Marketing,14.79,51,
+StudyHub,CK5006,https://studyhub.co.uk/course/CK5006,Full Stack Development,442.44,1999,3.5
+Apex,XO6438,https://apex.co.uk/course/XO6438,Artificial Intelligence Basics,48.5,967,4.0
+New Skills Academy,IT5734,https://newskillsacademy.co.uk/course/IT5734,Business Management Essentials,,139,4.5
+FutureLearn,AJ6753,https://futurelearn.co.uk/course/AJ6753,Business Management Essentials,402.29,3091,3.6
+StudyHub,XM8742,https://studyhub.co.uk/course/XM8742,Graphic Design Masterclass,338.49,1945,4.5
+FutureLearn,DW2813,https://futurelearn.co.uk/course/DW2813,Leadership and Communication,356.17,1975,4.4
+StudyHub,YV5746,https://studyhub.co.uk/course/YV5746,Excel for Data Analysis,312.14,2320,4.3
+NextGen,ZA7545,https://nextgen.co.uk/course/ZA7545,Excel for Data Analysis,,3961,
+NextGen,RE8166,https://nextgen.co.uk/course/RE8166,Financial Accounting Course,402.85,4256,4.7
+Global Edulink,WK6623,https://globaledulink.co.uk/course/WK6623,Financial Accounting Course,49.26,257,4.3
+Apex,LD4772,https://apex.co.uk/course/LD4772,UI UX Design Professional,410.48,459,
+Alpha,SY6262,https://alpha.co.uk/course/SY6262,Human Resource Management,29.97,4159,3.6
+NextGen,ZQ9563,https://nextgen.co.uk/course/ZQ9563,Business Management Essentials,,2184,4.5
+Alpha,OP9768,https://alpha.co.uk/course/OP9768,UI UX Design Professional,244.85,1316,3.8
+Apex,WK0130,https://apex.co.uk/course/WK0130,Digital Marketing Diploma,488.17,3477,4.6
+FutureLearn,GU9610,https://futurelearn.co.uk/course/GU9610,Web Development Diploma,437.2,2406,4.5
+FutureLearn,TA8187,https://futurelearn.co.uk/course/TA8187,Artificial Intelligence Basics,254.12,3715,3.5
+Global Edulink,KN7660,https://globaledulink.co.uk/course/KN7660,Machine Learning Foundations,330.1,4694,5.0
+Centre of Excellence,KU6907,https://centreofexcellence.co.uk/course/KU6907,Graphic Design Masterclass,487.65,3021,3.8
+Stonebridge College,WW4267,https://stonebridgecollege.co.uk/course/WW4267,Human Resource Management,343.31,402,4.8
+Stonebridge College,OP7921,https://stonebridgecollege.co.uk/course/OP7921,Cyber Security Fundamentals,95.35,208,4.1
+NextGen,ZT1022,https://nextgen.co.uk/course/ZT1022,Project Management Professional,424.66,4661,4.6
+Stonebridge College,VA4909,,Full Stack Development,386.18,1005,3.6
+StudyHub,UQ8375,https://studyhub.co.uk/course/UQ8375,Cyber Security Fundamentals,434.85,4753,4.4
+Alpha,NY5715,https://alpha.co.uk/course/NY5715,Machine Learning Foundations,24.4,3861,4.8
+IMOH,JW6329,https://imoh.co.uk/course/JW6329,Full Stack Development,451.34,1847,4.5
+Global Edulink,MO7613,https://globaledulink.co.uk/course/MO7613,Artificial Intelligence Basics,496.15,4331,4.9
+Stonebridge College,XG0837,https://stonebridgecollege.co.uk/course/XG0837,Business Management Essentials,113.22,579,4.4
+Centre of Excellence,GS0575,https://centreofexcellence.co.uk/course/GS0575,Excel for Data Analysis,369.23,2964,4.7
+New Skills Academy,MH6300,,UI UX Design Professional,208.6,4623,3.8
+Global Edulink,AB6784,https://globaledulink.co.uk/course/AB6784,Business Management Essentials,126.4,51,3.8
+FutureLearn,NS9769,https://futurelearn.co.uk/course/NS9769,Python Programming Bootcamp,428.65,3102,4.2
+StudyHub,LI0075,https://studyhub.co.uk/course/LI0075,Entrepreneurship and Innovation,57.72,4526,4.2
+FutureLearn,XK4433,https://futurelearn.co.uk/course/XK4433,Business Management Essentials,262.26,3205,4.4
+Global Edulink,AS0708,https://globaledulink.co.uk/course/AS0708,Human Resource Management,90.13,2988,4.0
+Global Edulink,CU3074,https://globaledulink.co.uk/course/CU3074,Machine Learning Foundations,205.53,1302,3.5
+StudyHub,MN1375,,Python Programming Bootcamp,298.32,4605,3.7
+Apex,RX7739,https://apex.co.uk/course/RX7739,UI UX Design Professional,485.21,3424,3.9
+Global Edulink,DB5350,https://globaledulink.co.uk/course/DB5350,Graphic Design Masterclass,443.02,679,3.8
+Alpha,FX8116,https://alpha.co.uk/course/FX8116,Healthcare Administration,264.69,2941,4.7
+FutureLearn,CR5079,https://futurelearn.co.uk/course/CR5079,UI UX Design Professional,221.13,2410,3.8
+New Skills Academy,QB6215,https://newskillsacademy.co.uk/course/QB6215,Financial Accounting Course,,3242,4.4
+Alpha,DR1693,https://alpha.co.uk/course/DR1693,Cloud Computing Essentials,,2262,4.7
+Alpha,QH5533,https://alpha.co.uk/course/QH5533,Leadership and Communication,355.64,2253,4.8
+NextGen,AG2748,https://nextgen.co.uk/course/AG2748,Python Programming Bootcamp,283.49,1324,3.7
+Alpha,WM3351,https://alpha.co.uk/course/WM3351,Full Stack Development,142.18,1018,
+IMOH,VW1528,https://imoh.co.uk/course/VW1528,Cyber Security Fundamentals,468.94,2894,4.5
+IMOH,XW6857,https://imoh.co.uk/course/XW6857,Graphic Design Masterclass,120.1,2582,4.9
+StudyHub,OO9473,https://studyhub.co.uk/course/OO9473,Artificial Intelligence Basics,164.92,1058,4.4
+Stonebridge College,TH4535,https://stonebridgecollege.co.uk/course/TH4535,Artificial Intelligence Basics,347.22,325,5.0
+Stonebridge College,RT1155,,Python Programming Bootcamp,482.91,175,4.9
+New Skills Academy,YB7222,https://newskillsacademy.co.uk/course/YB7222,Graphic Design Masterclass,323.17,1258,4.4
+Global Edulink,XJ4409,https://globaledulink.co.uk/course/XJ4409,Financial Accounting Course,134.57,3299,4.0
+IMOH,SN8825,https://imoh.co.uk/course/SN8825,Project Management Professional,,4453,4.6
+Centre of Excellence,QJ6853,https://centreofexcellence.co.uk/course/QJ6853,Artificial Intelligence Basics,,4520,3.7
+Global Edulink,KV3780,https://globaledulink.co.uk/course/KV3780,Python Programming Bootcamp,102.29,1064,4.5
+New Skills Academy,EC6213,https://newskillsacademy.co.uk/course/EC6213,Business Management Essentials,227.44,4662,4.9
+FutureLearn,KI1645,https://futurelearn.co.uk/course/KI1645,Leadership and Communication,135.1,2524,4.5
+StudyHub,GD5158,https://studyhub.co.uk/course/GD5158,Python Programming Bootcamp,253.62,3769,4.8
+StudyHub,EX5496,https://studyhub.co.uk/course/EX5496,Web Development Diploma,386.57,1036,4.9
+IMOH,FP4424,,Python Programming Bootcamp,347.87,3122,3.8
+Stonebridge College,VE6273,https://stonebridgecollege.co.uk/course/VE6273,Cloud Computing Essentials,,3174,4.5
+Stonebridge College,PF3128,,Excel for Data Analysis,292.82,3341,3.7
+Centre of Excellence,VP1958,https://centreofexcellence.co.uk/course/VP1958,UI UX Design Professional,306.43,624,5.0
+Global Edulink,TC6950,https://globaledulink.co.uk/course/TC6950,Leadership and Communication,209.38,4833,4.6
+Global Edulink,KW6494,https://globaledulink.co.uk/course/KW6494,Machine Learning Foundations,54.34,3280,4.6
+Alpha,PT7601,https://alpha.co.uk/course/PT7601,Social Media Marketing,440.47,3223,4.0
+FutureLearn,XC5520,https://futurelearn.co.uk/course/XC5520,Level 3 Data Analytics,337.12,3603,4.6
+Stonebridge College,NN3284,https://stonebridgecollege.co.uk/course/NN3284,Business Management Essentials,,900,4.8
+NextGen,LP2556,,Machine Learning Foundations,,871,4.5
+FutureLearn,KU4352,https://futurelearn.co.uk/course/KU4352,Web Development Diploma,,3197,4.4
+Stonebridge College,IS7867,https://stonebridgecollege.co.uk/course/IS7867,Cloud Computing Essentials,286.09,4036,4.1
+NextGen,CN7866,https://nextgen.co.uk/course/CN7866,Digital Marketing Diploma,229.86,4450,4.3
+NextGen,KQ8846,https://nextgen.co.uk/course/KQ8846,Cyber Security Fundamentals,227.77,3388,4.4
+IMOH,GJ6794,https://imoh.co.uk/course/GJ6794,Excel for Data Analysis,337.42,2939,4.6
+Apex,SP9864,https://apex.co.uk/course/SP9864,Graphic Design Masterclass,255.22,3915,4.9
+Global Edulink,HA5521,https://globaledulink.co.uk/course/HA5521,Digital Marketing Diploma,425.11,1997,3.5
+Alpha,GA1973,https://alpha.co.uk/course/GA1973,Machine Learning Foundations,177.21,61,3.7
+Centre of Excellence,PN7002,https://centreofexcellence.co.uk/course/PN7002,UI UX Design Professional,268.05,3072,4.3
+Stonebridge College,JZ2619,https://stonebridgecollege.co.uk/course/JZ2619,Entrepreneurship and Innovation,307.87,993,4.3
+StudyHub,GK1029,,Excel for Data Analysis,375.97,2461,4.9
+Apex,WV5695,https://apex.co.uk/course/WV5695,Artificial Intelligence Basics,18.93,456,4.1
+Alpha,YL4501,https://alpha.co.uk/course/YL4501,Cyber Security Fundamentals,449.39,3238,4.8
+Centre of Excellence,QZ6239,https://centreofexcellence.co.uk/course/QZ6239,Excel for Data Analysis,129.31,764,
+Global Edulink,AV2068,,Cyber Security Fundamentals,106.61,190,4.0
+Global Edulink,YM3829,https://globaledulink.co.uk/course/YM3829,Graphic Design Masterclass,59.7,1013,3.9
+New Skills Academy,TG2228,https://newskillsacademy.co.uk/course/TG2228,Full Stack Development,149.59,3660,
+Alpha,EC9666,https://alpha.co.uk/course/EC9666,UI UX Design Professional,270.81,155,4.4
+StudyHub,WJ3885,https://studyhub.co.uk/course/WJ3885,Healthcare Administration,360.91,4066,5.0
+New Skills Academy,ET5371,https://newskillsacademy.co.uk/course/ET5371,Excel for Data Analysis,413.36,4495,3.8
+Centre of Excellence,MO5361,https://centreofexcellence.co.uk/course/MO5361,Business Management Essentials,343.75,3704,3.9
+Global Edulink,LR0253,https://globaledulink.co.uk/course/LR0253,Full Stack Development,398.77,494,3.9
+Apex,EG2931,https://apex.co.uk/course/EG2931,Leadership and Communication,481.83,1525,3.6
+FutureLearn,KT3445,https://futurelearn.co.uk/course/KT3445,Entrepreneurship and Innovation,409.72,1758,4.4
+FutureLearn,VS8581,https://futurelearn.co.uk/course/VS8581,Python Programming Bootcamp,476.19,1350,
+New Skills Academy,UE4985,https://newskillsacademy.co.uk/course/UE4985,Financial Accounting Course,121.76,4666,4.5
+New Skills Academy,HO5360,https://newskillsacademy.co.uk/course/HO5360,Healthcare Administration,95.64,1710,4.9
+New Skills Academy,VC7235,https://newskillsacademy.co.uk/course/VC7235,Healthcare Administration,387.27,1122,3.9
+Alpha,AD8915,https://alpha.co.uk/course/AD8915,UI UX Design Professional,392.46,4195,4.6
+NextGen,ZH3574,,Cyber Security Fundamentals,427.08,3323,4.7
+Centre of Excellence,PM9869,https://centreofexcellence.co.uk/course/PM9869,Leadership and Communication,385.66,3090,
+Stonebridge College,OW0123,https://stonebridgecollege.co.uk/course/OW0123,Web Development Diploma,84.96,1634,4.6
+Apex,PK8797,https://apex.co.uk/course/PK8797,Excel for Data Analysis,,680,4.3
+New Skills Academy,KE0769,https://newskillsacademy.co.uk/course/KE0769,Cyber Security Fundamentals,97.44,2902,4.5
+FutureLearn,EC0850,https://futurelearn.co.uk/course/EC0850,Machine Learning Foundations,307.48,1596,3.8
+Global Edulink,TC2168,https://globaledulink.co.uk/course/TC2168,Web Development Diploma,201.54,490,4.2
+FutureLearn,GH6180,https://futurelearn.co.uk/course/GH6180,Human Resource Management,494.01,4408,4.5
+Alpha,WM8951,https://alpha.co.uk/course/WM8951,UI UX Design Professional,208.12,4058,4.5
+NextGen,PL7846,https://nextgen.co.uk/course/PL7846,UI UX Design Professional,495.72,4845,4.7
+Apex,XM2034,https://apex.co.uk/course/XM2034,Python Programming Bootcamp,305.58,1175,4.4
+Apex,AN7125,https://apex.co.uk/course/AN7125,Social Media Marketing,144.34,4181,
+New Skills Academy,HT7575,https://newskillsacademy.co.uk/course/HT7575,Graphic Design Masterclass,448.15,122,4.0
+Centre of Excellence,WL2768,https://centreofexcellence.co.uk/course/WL2768,Artificial Intelligence Basics,121.06,2522,4.4
+Apex,CQ5766,https://apex.co.uk/course/CQ5766,Healthcare Administration,226.78,3763,4.5
+Apex,QN2101,https://apex.co.uk/course/QN2101,Business Management Essentials,44.27,4305,4.3
+New Skills Academy,QH6100,https://newskillsacademy.co.uk/course/QH6100,UI UX Design Professional,441.24,1635,4.5
+StudyHub,EC2772,https://studyhub.co.uk/course/EC2772,Python Programming Bootcamp,123.11,4203,4.0
+StudyHub,MI3794,https://studyhub.co.uk/course/MI3794,Digital Marketing Diploma,338.05,2824,4.1
+Alpha,CT1235,https://alpha.co.uk/course/CT1235,Project Management Professional,187.84,3924,4.6
+FutureLearn,XG3097,https://futurelearn.co.uk/course/XG3097,Machine Learning Foundations,237.95,711,4.3
+New Skills Academy,GZ1706,https://newskillsacademy.co.uk/course/GZ1706,Graphic Design Masterclass,479.24,1918,4.5
+New Skills Academy,KY9177,https://newskillsacademy.co.uk/course/KY9177,UI UX Design Professional,379.87,4456,4.3
+Global Edulink,DM2306,https://globaledulink.co.uk/course/DM2306,Business Management Essentials,57.37,682,4.7
+FutureLearn,QI1217,https://futurelearn.co.uk/course/QI1217,Level 3 Data Analytics,10.61,1981,5.0
+StudyHub,PR6172,https://studyhub.co.uk/course/PR6172,Social Media Marketing,242.69,286,
+IMOH,RI9703,https://imoh.co.uk/course/RI9703,Python Programming Bootcamp,487.34,4775,
+Global Edulink,UD2977,https://globaledulink.co.uk/course/UD2977,Cloud Computing Essentials,464.23,413,3.9
+FutureLearn,AJ7207,https://futurelearn.co.uk/course/AJ7207,UI UX Design Professional,339.06,4087,3.9
+Apex,OM5534,https://apex.co.uk/course/OM5534,Full Stack Development,,4945,3.7
+Global Edulink,EN4854,https://globaledulink.co.uk/course/EN4854,Excel for Data Analysis,414.77,1573,4.6
+Centre of Excellence,TW6363,https://centreofexcellence.co.uk/course/TW6363,Cyber Security Fundamentals,27.72,4626,3.8
+Global Edulink,VE6712,https://globaledulink.co.uk/course/VE6712,Leadership and Communication,177.42,2458,3.6
+Alpha,CN0818,https://alpha.co.uk/course/CN0818,Graphic Design Masterclass,469.11,2546,
+IMOH,MC5865,https://imoh.co.uk/course/MC5865,Entrepreneurship and Innovation,,1739,
+Apex,BF7096,https://apex.co.uk/course/BF7096,Cyber Security Fundamentals,,1492,4.7
+New Skills Academy,UB5943,https://newskillsacademy.co.uk/course/UB5943,Digital Marketing Diploma,291.55,293,3.8
+Stonebridge College,GB0399,https://stonebridgecollege.co.uk/course/GB0399,Business Management Essentials,465.99,4187,4.3
+IMOH,SN1526,https://imoh.co.uk/course/SN1526,Project Management Professional,317.7,3279,4.8
+Global Edulink,TK1634,https://globaledulink.co.uk/course/TK1634,Leadership and Communication,435.35,183,3.7
+IMOH,EE4319,https://imoh.co.uk/course/EE4319,Cloud Computing Essentials,113.87,122,4.0
+Alpha,XO9846,https://alpha.co.uk/course/XO9846,Financial Accounting Course,21.22,4275,
+Stonebridge College,GO3573,https://stonebridgecollege.co.uk/course/GO3573,Cloud Computing Essentials,479.09,4411,4.7
+New Skills Academy,YA0201,https://newskillsacademy.co.uk/course/YA0201,Web Development Diploma,74.94,4309,4.4
+StudyHub,HF8086,https://studyhub.co.uk/course/HF8086,Healthcare Administration,78.21,4967,4.7
+Global Edulink,NO5041,https://globaledulink.co.uk/course/NO5041,Healthcare Administration,165.59,2580,4.1
+Alpha,XG2355,https://alpha.co.uk/course/XG2355,Graphic Design Masterclass,81.72,2579,3.6
+IMOH,SU1865,https://imoh.co.uk/course/SU1865,Business Management Essentials,22.65,586,3.8
+Stonebridge College,QA8379,,Financial Accounting Course,49.18,4273,4.1
+Alpha,WL9177,https://alpha.co.uk/course/WL9177,Full Stack Development,162.79,895,4.8
+StudyHub,QQ0535,https://studyhub.co.uk/course/QQ0535,Financial Accounting Course,146.1,2544,4.5
+Global Edulink,SD6997,https://globaledulink.co.uk/course/SD6997,Entrepreneurship and Innovation,115.86,4399,
+Global Edulink,CL7134,https://globaledulink.co.uk/course/CL7134,Digital Marketing Diploma,188.75,2003,4.2
+Global Edulink,KC5711,,UI UX Design Professional,38.5,3900,4.6
+FutureLearn,MQ1672,https://futurelearn.co.uk/course/MQ1672,Cyber Security Fundamentals,313.55,506,4.1
+Apex,UI9064,https://apex.co.uk/course/UI9064,Human Resource Management,93.63,4294,3.7
+FutureLearn,IP0396,https://futurelearn.co.uk/course/IP0396,Cloud Computing Essentials,158.6,932,3.8
+Stonebridge College,DB8137,https://stonebridgecollege.co.uk/course/DB8137,Cyber Security Fundamentals,348.89,658,4.3
+IMOH,TG6182,https://imoh.co.uk/course/TG6182,Financial Accounting Course,,2198,4.4
+IMOH,HM3725,https://imoh.co.uk/course/HM3725,Healthcare Administration,160.06,869,4.5
+Global Edulink,MS1605,https://globaledulink.co.uk/course/MS1605,Excel for Data Analysis,425.53,1558,4.8
+StudyHub,GB2624,https://studyhub.co.uk/course/GB2624,Level 3 Data Analytics,230.39,2094,4.0
+IMOH,KH8680,https://imoh.co.uk/course/KH8680,Machine Learning Foundations,267.5,3079,4.7
+FutureLearn,ZN7945,,Cyber Security Fundamentals,369.47,2695,4.9
+NextGen,FZ5709,https://nextgen.co.uk/course/FZ5709,Web Development Diploma,131.8,2343,4.7
+Alpha,MT0633,https://alpha.co.uk/course/MT0633,Excel for Data Analysis,295.25,950,3.8
+Apex,VQ8880,https://apex.co.uk/course/VQ8880,UI UX Design Professional,15.94,291,4.4
+Apex,FI3175,https://apex.co.uk/course/FI3175,Full Stack Development,107.44,4318,3.6
+FutureLearn,KO4364,https://futurelearn.co.uk/course/KO4364,Python Programming Bootcamp,191.99,4642,4.3
+FutureLearn,QP6216,https://futurelearn.co.uk/course/QP6216,Excel for Data Analysis,232.64,2405,
+NextGen,LX7651,https://nextgen.co.uk/course/LX7651,Cyber Security Fundamentals,83.13,2607,3.7
+Global Edulink,NS1810,https://globaledulink.co.uk/course/NS1810,Financial Accounting Course,169.09,3885,
+Centre of Excellence,YH7867,https://centreofexcellence.co.uk/course/YH7867,Python Programming Bootcamp,407.24,3854,4.1
+FutureLearn,CE7625,https://futurelearn.co.uk/course/CE7625,Artificial Intelligence Basics,235.13,2494,3.7
+Stonebridge College,GR3645,https://stonebridgecollege.co.uk/course/GR3645,Full Stack Development,,3241,4.0
+New Skills Academy,SJ8411,https://newskillsacademy.co.uk/course/SJ8411,Digital Marketing Diploma,347.19,621,3.6
+Centre of Excellence,TA2479,https://centreofexcellence.co.uk/course/TA2479,Graphic Design Masterclass,146.89,291,3.6
+IMOH,EY4668,https://imoh.co.uk/course/EY4668,Artificial Intelligence Basics,451.86,838,4.7
+Centre of Excellence,KB7336,https://centreofexcellence.co.uk/course/KB7336,Entrepreneurship and Innovation,252.77,825,4.8
+Stonebridge College,NQ7014,https://stonebridgecollege.co.uk/course/NQ7014,Digital Marketing Diploma,,128,4.8
+FutureLearn,NK7556,,Digital Marketing Diploma,230.8,2198,3.6
+FutureLearn,HK3844,https://futurelearn.co.uk/course/HK3844,Full Stack Development,28.63,4232,4.6
+StudyHub,RX4605,https://studyhub.co.uk/course/RX4605,Project Management Professional,45.32,457,3.7
+Stonebridge College,YS1441,https://stonebridgecollege.co.uk/course/YS1441,Entrepreneurship and Innovation,27.43,197,4.6
+FutureLearn,WC3671,https://futurelearn.co.uk/course/WC3671,Business Management Essentials,183.09,415,5.0
+IMOH,CL3537,https://imoh.co.uk/course/CL3537,Excel for Data Analysis,,2596,3.8
+Stonebridge College,YJ3795,https://stonebridgecollege.co.uk/course/YJ3795,Python Programming Bootcamp,95.31,822,4.5
+NextGen,WE7437,https://nextgen.co.uk/course/WE7437,Cloud Computing Essentials,384.54,1623,3.6
+Apex,QD1262,https://apex.co.uk/course/QD1262,Cloud Computing Essentials,,1296,4.7
+New Skills Academy,WO0825,https://newskillsacademy.co.uk/course/WO0825,Social Media Marketing,121.64,2426,4.1
+New Skills Academy,KC6256,https://newskillsacademy.co.uk/course/KC6256,UI UX Design Professional,110.79,3682,3.9
+FutureLearn,BD6086,https://futurelearn.co.uk/course/BD6086,Full Stack Development,137.75,1690,4.5
+Apex,IC1912,https://apex.co.uk/course/IC1912,Full Stack Development,269.85,4335,4.8
+Stonebridge College,UE4590,https://stonebridgecollege.co.uk/course/UE4590,Web Development Diploma,167.89,3797,3.9
+Alpha,JJ0452,https://alpha.co.uk/course/JJ0452,Python Programming Bootcamp,490.19,2471,4.2
+IMOH,SH5566,https://imoh.co.uk/course/SH5566,Business Management Essentials,,4033,4.7
+Stonebridge College,SQ9469,https://stonebridgecollege.co.uk/course/SQ9469,Web Development Diploma,331.67,572,3.6
+Centre of Excellence,PI5931,,Entrepreneurship and Innovation,64.3,2280,3.6
+New Skills Academy,NQ4167,https://newskillsacademy.co.uk/course/NQ4167,Graphic Design Masterclass,194.24,4991,4.2
+StudyHub,DM7726,https://studyhub.co.uk/course/DM7726,Leadership and Communication,310.34,2887,3.9
+Centre of Excellence,BJ8266,https://centreofexcellence.co.uk/course/BJ8266,Healthcare Administration,464.88,3293,3.8
+IMOH,IN3063,https://imoh.co.uk/course/IN3063,Entrepreneurship and Innovation,444.59,4038,3.9
+Stonebridge College,YV1894,https://stonebridgecollege.co.uk/course/YV1894,Social Media Marketing,409.81,88,4.8
+StudyHub,QM6853,https://studyhub.co.uk/course/QM6853,Leadership and Communication,460.27,2246,4.6
+StudyHub,VH7352,https://studyhub.co.uk/course/VH7352,Financial Accounting Course,235.66,351,4.6
+Alpha,BD8335,https://alpha.co.uk/course/BD8335,Project Management Professional,390.46,1809,3.8
+Stonebridge College,PE1738,https://stonebridgecollege.co.uk/course/PE1738,Digital Marketing Diploma,277.06,4380,3.9
+Apex,KM2492,https://apex.co.uk/course/KM2492,Web Development Diploma,274.38,3587,3.7
+NextGen,CU7940,https://nextgen.co.uk/course/CU7940,Social Media Marketing,345.8,332,4.9
+Global Edulink,EI4833,,Business Management Essentials,249.31,4233,4.0
+Global Edulink,RD7475,https://globaledulink.co.uk/course/RD7475,Level 3 Data Analytics,212.57,2518,4.4
+Apex,YR5040,https://apex.co.uk/course/YR5040,Excel for Data Analysis,259.1,752,3.7
+Apex,AT6222,https://apex.co.uk/course/AT6222,UI UX Design Professional,84.27,1354,
+Alpha,UR2119,https://alpha.co.uk/course/UR2119,UI UX Design Professional,88.44,411,4.3
+Global Edulink,CO5298,https://globaledulink.co.uk/course/CO5298,Entrepreneurship and Innovation,407.76,1334,4.8
+FutureLearn,EI8500,https://futurelearn.co.uk/course/EI8500,Digital Marketing Diploma,146.17,1905,4.7
+IMOH,JC3786,https://imoh.co.uk/course/JC3786,Cloud Computing Essentials,109.98,3131,4.6
+Stonebridge College,JI1780,https://stonebridgecollege.co.uk/course/JI1780,Cloud Computing Essentials,409.41,972,4.5
+Stonebridge College,DV9446,https://stonebridgecollege.co.uk/course/DV9446,Cloud Computing Essentials,193.88,2597,4.3
+New Skills Academy,GF8693,https://newskillsacademy.co.uk/course/GF8693,Financial Accounting Course,425.54,363,3.6
+Alpha,LA4341,https://alpha.co.uk/course/LA4341,Human Resource Management,375.41,1087,4.6
+Stonebridge College,ON4715,https://stonebridgecollege.co.uk/course/ON4715,Cyber Security Fundamentals,381.75,2684,4.6
+Apex,NK4659,https://apex.co.uk/course/NK4659,Machine Learning Foundations,422.57,3945,4.3
+IMOH,IV5747,,UI UX Design Professional,71.11,1454,4.5
+FutureLearn,ER7781,https://futurelearn.co.uk/course/ER7781,Full Stack Development,392.4,1063,4.4
+New Skills Academy,IC4345,https://newskillsacademy.co.uk/course/IC4345,Full Stack Development,201.85,4967,4.5
+Centre of Excellence,IQ0215,https://centreofexcellence.co.uk/course/IQ0215,Level 3 Data Analytics,11.58,2135,3.8
+NextGen,RL2642,https://nextgen.co.uk/course/RL2642,Financial Accounting Course,98.85,2370,4.4
+Apex,OX3949,https://apex.co.uk/course/OX3949,Human Resource Management,245.68,4671,4.6
+IMOH,PP5880,https://imoh.co.uk/course/PP5880,UI UX Design Professional,61.03,2997,3.6
+StudyHub,AO9120,https://studyhub.co.uk/course/AO9120,Leadership and Communication,248.43,643,4.4
+Stonebridge College,KI3356,https://stonebridgecollege.co.uk/course/KI3356,Social Media Marketing,21.24,3012,
+NextGen,EJ9819,https://nextgen.co.uk/course/EJ9819,Python Programming Bootcamp,47.76,4551,4.5
+NextGen,AQ1869,https://nextgen.co.uk/course/AQ1869,Python Programming Bootcamp,375.5,3024,4.7
+IMOH,DU8869,https://imoh.co.uk/course/DU8869,Full Stack Development,264.95,4885,3.7
+NextGen,LL8324,https://nextgen.co.uk/course/LL8324,Level 3 Data Analytics,370.4,2578,3.6
+Stonebridge College,MT7295,https://stonebridgecollege.co.uk/course/MT7295,Digital Marketing Diploma,118.1,2860,4.7
+StudyHub,OS1461,https://studyhub.co.uk/course/OS1461,Excel for Data Analysis,385.63,1069,
+Apex,MC8047,https://apex.co.uk/course/MC8047,Cyber Security Fundamentals,,4343,4.5
+Global Edulink,UI0374,https://globaledulink.co.uk/course/UI0374,Excel for Data Analysis,,2060,4.5
+New Skills Academy,OI3921,https://newskillsacademy.co.uk/course/OI3921,Full Stack Development,495.65,2221,4.1
+Apex,SO0410,https://apex.co.uk/course/SO0410,Web Development Diploma,290.22,3521,
+Stonebridge College,AM1072,https://stonebridgecollege.co.uk/course/AM1072,Full Stack Development,287.12,187,4.0
+Apex,HG7697,https://apex.co.uk/course/HG7697,Cloud Computing Essentials,22.84,3746,4.4
+Alpha,VG7478,https://alpha.co.uk/course/VG7478,Financial Accounting Course,297.37,2807,4.3
+IMOH,ZP8874,https://imoh.co.uk/course/ZP8874,Machine Learning Foundations,156.38,4036,
+FutureLearn,RS1580,https://futurelearn.co.uk/course/RS1580,Healthcare Administration,220.53,4726,4.8
+IMOH,BM4499,https://imoh.co.uk/course/BM4499,Artificial Intelligence Basics,101.19,2146,4.2
+Centre of Excellence,RK2542,https://centreofexcellence.co.uk/course/RK2542,Cloud Computing Essentials,,2453,3.7
+Centre of Excellence,RZ6096,https://centreofexcellence.co.uk/course/RZ6096,Leadership and Communication,49.49,3028,4.2
+Stonebridge College,XW3206,https://stonebridgecollege.co.uk/course/XW3206,Machine Learning Foundations,367.46,1911,3.6
+New Skills Academy,UT7513,https://newskillsacademy.co.uk/course/UT7513,Project Management Professional,120.36,4333,4.1
+Alpha,OR8001,,Cloud Computing Essentials,462.09,4693,3.5
+Alpha,FH1009,https://alpha.co.uk/course/FH1009,Graphic Design Masterclass,148.55,4763,3.9
+Stonebridge College,QS1816,https://stonebridgecollege.co.uk/course/QS1816,Entrepreneurship and Innovation,138.24,212,3.9
+NextGen,XS2496,https://nextgen.co.uk/course/XS2496,Healthcare Administration,395.69,955,3.9
+Centre of Excellence,RR7272,https://centreofexcellence.co.uk/course/RR7272,Digital Marketing Diploma,382.11,1691,4.8
+Centre of Excellence,KZ2810,https://centreofexcellence.co.uk/course/KZ2810,Graphic Design Masterclass,141.39,890,4.2
+Stonebridge College,KQ1546,https://stonebridgecollege.co.uk/course/KQ1546,Business Management Essentials,26.47,2693,4.4
+New Skills Academy,SC0524,,Social Media Marketing,285.38,739,4.1
+NextGen,QA0313,https://nextgen.co.uk/course/QA0313,Machine Learning Foundations,180.2,1472,3.5
+Stonebridge College,AS7447,https://stonebridgecollege.co.uk/course/AS7447,Cyber Security Fundamentals,335.26,1221,3.7
+Global Edulink,FJ6715,https://globaledulink.co.uk/course/FJ6715,Human Resource Management,442.25,1499,4.7
+Alpha,RK6905,https://alpha.co.uk/course/RK6905,Financial Accounting Course,395.98,4310,5.0
+IMOH,VT2259,https://imoh.co.uk/course/VT2259,Graphic Design Masterclass,135.7,3720,3.8
+Apex,SX6306,https://apex.co.uk/course/SX6306,Graphic Design Masterclass,287.01,1988,
+NextGen,AA9237,,Web Development Diploma,474.05,1981,4.0
+New Skills Academy,NV4900,https://newskillsacademy.co.uk/course/NV4900,Digital Marketing Diploma,65.91,4774,3.8
+Centre of Excellence,DU6468,https://centreofexcellence.co.uk/course/DU6468,Python Programming Bootcamp,132.97,647,4.3
+Stonebridge College,GB7409,https://stonebridgecollege.co.uk/course/GB7409,Full Stack Development,266.46,622,4.8
+StudyHub,GQ0698,https://studyhub.co.uk/course/GQ0698,Business Management Essentials,364.18,3719,4.3
+New Skills Academy,PV0815,https://newskillsacademy.co.uk/course/PV0815,Full Stack Development,310.32,1567,4.2
+FutureLearn,BF3874,https://futurelearn.co.uk/course/BF3874,Business Management Essentials,247.5,4998,3.7
+Stonebridge College,OI9201,https://stonebridgecollege.co.uk/course/OI9201,Cyber Security Fundamentals,,3187,3.6
+IMOH,HT1312,https://imoh.co.uk/course/HT1312,Entrepreneurship and Innovation,432.37,4580,4.5
+StudyHub,DU6318,https://studyhub.co.uk/course/DU6318,Cyber Security Fundamentals,277.26,393,4.7
+StudyHub,AY7526,https://studyhub.co.uk/course/AY7526,Social Media Marketing,64.85,4716,4.2
+NextGen,FQ5496,https://nextgen.co.uk/course/FQ5496,Digital Marketing Diploma,35.46,1904,4.2
+Stonebridge College,EM9673,https://stonebridgecollege.co.uk/course/EM9673,Level 3 Data Analytics,176.49,2374,3.7
+Global Edulink,GD5037,https://globaledulink.co.uk/course/GD5037,UI UX Design Professional,,2841,4.8
+Global Edulink,FU6217,https://globaledulink.co.uk/course/FU6217,Social Media Marketing,441.0,831,3.9
+New Skills Academy,ER0624,https://newskillsacademy.co.uk/course/ER0624,Financial Accounting Course,231.11,2155,4.6
+Stonebridge College,UT0791,https://stonebridgecollege.co.uk/course/UT0791,Level 3 Data Analytics,283.41,2163,3.6
+New Skills Academy,NB2454,https://newskillsacademy.co.uk/course/NB2454,Financial Accounting Course,237.33,2041,3.9
+FutureLearn,UI0783,https://futurelearn.co.uk/course/UI0783,Artificial Intelligence Basics,201.46,2324,3.7
+IMOH,MM8194,https://imoh.co.uk/course/MM8194,Machine Learning Foundations,331.82,2476,4.1
+Alpha,DS6921,https://alpha.co.uk/course/DS6921,Entrepreneurship and Innovation,390.05,4452,3.8
+StudyHub,HC4472,https://studyhub.co.uk/course/HC4472,Web Development Diploma,,57,3.9
+Stonebridge College,EU9955,https://stonebridgecollege.co.uk/course/EU9955,Artificial Intelligence Basics,398.5,2261,3.9
+IMOH,KN8244,https://imoh.co.uk/course/KN8244,Level 3 Data Analytics,163.05,4704,
+Centre of Excellence,TG3585,https://centreofexcellence.co.uk/course/TG3585,Python Programming Bootcamp,,4613,4.3
+Stonebridge College,XK0975,https://stonebridgecollege.co.uk/course/XK0975,Leadership and Communication,91.36,4993,
+Global Edulink,KV6040,https://globaledulink.co.uk/course/KV6040,Level 3 Data Analytics,454.01,1948,5.0
+Centre of Excellence,YD2604,https://centreofexcellence.co.uk/course/YD2604,Web Development Diploma,78.95,3250,3.6
+NextGen,SW7047,https://nextgen.co.uk/course/SW7047,Machine Learning Foundations,188.21,737,3.7
+NextGen,UJ4680,https://nextgen.co.uk/course/UJ4680,Financial Accounting Course,225.76,3063,5.0
+Global Edulink,AL2957,,Cyber Security Fundamentals,429.87,2746,
+Stonebridge College,WT0968,https://stonebridgecollege.co.uk/course/WT0968,Business Management Essentials,257.55,624,4.2
+Centre of Excellence,JQ3150,https://centreofexcellence.co.uk/course/JQ3150,Graphic Design Masterclass,69.99,719,4.5
+NextGen,ZG1495,https://nextgen.co.uk/course/ZG1495,Graphic Design Masterclass,91.32,1175,5.0
+FutureLearn,IX5403,https://futurelearn.co.uk/course/IX5403,Cloud Computing Essentials,331.51,3761,3.5
+New Skills Academy,NV4588,https://newskillsacademy.co.uk/course/NV4588,Cloud Computing Essentials,,2450,3.5
+Stonebridge College,JR6981,https://stonebridgecollege.co.uk/course/JR6981,Cloud Computing Essentials,,3119,4.6
+IMOH,CX2912,https://imoh.co.uk/course/CX2912,Python Programming Bootcamp,101.83,314,4.7
+New Skills Academy,DF9046,https://newskillsacademy.co.uk/course/DF9046,Python Programming Bootcamp,274.99,3040,4.5
+New Skills Academy,JL6208,https://newskillsacademy.co.uk/course/JL6208,Artificial Intelligence Basics,163.89,1204,4.8
+Global Edulink,QK3635,https://globaledulink.co.uk/course/QK3635,Excel for Data Analysis,,4129,
+Global Edulink,LH1712,https://globaledulink.co.uk/course/LH1712,Social Media Marketing,414.73,239,4.6
+Alpha,ZU0341,https://alpha.co.uk/course/ZU0341,Project Management Professional,215.86,2643,4.0
+Global Edulink,HZ8661,https://globaledulink.co.uk/course/HZ8661,Artificial Intelligence Basics,230.67,1148,4.5
+IMOH,BI1215,https://imoh.co.uk/course/BI1215,Digital Marketing Diploma,314.25,1724,4.8
+Alpha,ZD4951,https://alpha.co.uk/course/ZD4951,Level 3 Data Analytics,134.45,4434,3.7
+Centre of Excellence,YT9919,https://centreofexcellence.co.uk/course/YT9919,UI UX Design Professional,341.33,1139,4.0
+Global Edulink,IS4299,https://globaledulink.co.uk/course/IS4299,Entrepreneurship and Innovation,11.87,1120,3.8
+NextGen,US9314,https://nextgen.co.uk/course/US9314,Digital Marketing Diploma,429.31,4269,5.0
+NextGen,RD0623,https://nextgen.co.uk/course/RD0623,Financial Accounting Course,45.61,689,4.5
+StudyHub,PF5771,https://studyhub.co.uk/course/PF5771,Cyber Security Fundamentals,350.13,4678,3.5
+Global Edulink,WR9934,https://globaledulink.co.uk/course/WR9934,Full Stack Development,158.93,3423,4.6
+Stonebridge College,NB6374,https://stonebridgecollege.co.uk/course/NB6374,Machine Learning Foundations,452.77,4696,4.7
+Alpha,AI3452,https://alpha.co.uk/course/AI3452,Cloud Computing Essentials,38.96,2307,4.5
+Centre of Excellence,UH8948,https://centreofexcellence.co.uk/course/UH8948,Python Programming Bootcamp,438.37,2504,
+Stonebridge College,PD3953,https://stonebridgecollege.co.uk/course/PD3953,Entrepreneurship and Innovation,200.98,2647,
+Centre of Excellence,CK9457,https://centreofexcellence.co.uk/course/CK9457,Python Programming Bootcamp,196.99,3668,4.1
+FutureLearn,EJ5088,https://futurelearn.co.uk/course/EJ5088,Web Development Diploma,403.15,645,3.5
+New Skills Academy,OM0029,https://newskillsacademy.co.uk/course/OM0029,Social Media Marketing,216.51,4415,4.9
+IMOH,QX4462,,Business Management Essentials,147.22,2017,4.6
+Apex,MZ5344,https://apex.co.uk/course/MZ5344,Healthcare Administration,486.66,2996,4.6
+New Skills Academy,ZV3702,https://newskillsacademy.co.uk/course/ZV3702,Entrepreneurship and Innovation,404.4,2270,4.9
+StudyHub,DL6303,https://studyhub.co.uk/course/DL6303,Human Resource Management,366.07,2860,4.4
+StudyHub,HN9571,https://studyhub.co.uk/course/HN9571,Business Management Essentials,271.01,4932,
+Stonebridge College,TO8863,https://stonebridgecollege.co.uk/course/TO8863,Human Resource Management,65.16,983,3.7
+IMOH,NJ1127,https://imoh.co.uk/course/NJ1127,Leadership and Communication,43.49,2562,3.9
+Alpha,XE2587,https://alpha.co.uk/course/XE2587,UI UX Design Professional,16.08,3497,3.9
+Stonebridge College,RY8778,https://stonebridgecollege.co.uk/course/RY8778,Leadership and Communication,414.02,4966,3.9
+New Skills Academy,XD1036,,Python Programming Bootcamp,156.96,2319,4.4
+New Skills Academy,XP7370,https://newskillsacademy.co.uk/course/XP7370,Business Management Essentials,41.6,1037,4.8
+FutureLearn,DS6329,https://futurelearn.co.uk/course/DS6329,Leadership and Communication,337.22,4058,5.0
+IMOH,CU7017,https://imoh.co.uk/course/CU7017,Excel for Data Analysis,316.83,2574,4.8
+Stonebridge College,BD2067,https://stonebridgecollege.co.uk/course/BD2067,Business Management Essentials,149.79,2365,4.4
+Stonebridge College,FX1308,https://stonebridgecollege.co.uk/course/FX1308,Healthcare Administration,497.76,1635,4.4
